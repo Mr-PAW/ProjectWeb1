@@ -1,0 +1,50 @@
+body {
+    background-color: #f8f9fa;
+}
+.masthead {
+    height: 400px; /* Adjust this value to fit your needs */
+    background-color: #fbe;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Copperplate, Papyrus, fantasy;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card-body {
+    font-family: Copperplate, Papyrus, fantasy;
+    position: relative;
+    z-index: 10; /* Ensure text stays above the background image */
+    font-size: 1rem;
+}
+
+.card-header {
+    font-family: 'Merryweather', serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+}
+.card-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white; /* Ensure the text is readable on top of the image */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Optional: adds a shadow for better contrast */
+}
+
+.card-text {
+    font-family: 'Playfair Display', serif;
+}
+.mb-4 {
+    font-family: 'Palatino', serif;
+}
+.mb-0 {
+    font-family: 'Playfair Display', serif;
+}
