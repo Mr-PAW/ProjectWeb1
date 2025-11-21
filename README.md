@@ -50,9 +50,13 @@ destinasi wisata dengan role **Admin** dan **User**.
 
 1.  Clone repository
 
-        git clone <repo-url>
-
 2. Masukkan sql ke MySql
 
 3. Jalankan pada server lokal
 
+------------------------------------------------------------------------
+
+## Colaboration
+
+Project ini dikerjakan bersama Elyuzar Fazlurrahman 
+https://github.com/prettycoolflacko/
