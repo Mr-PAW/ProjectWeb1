@@ -46,7 +46,7 @@ destinasi wisata dengan role **Admin** dan **User**.
 
 ------------------------------------------------------------------------
 
-## Installation & Setup (opsional)
+## Installation & Setup 
 
 1.  Clone repository
 
